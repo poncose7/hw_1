@@ -1,0 +1,32 @@
+
+
+
+
+body{
+	
+	background-color:#ddd; 
+	color:#555;
+	font-family: Arial,Helvitica,sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+
+	font: 20px Arial normal;
+}
+
+span{
+	color:  #e74c3c
+}
+
+strong{
+
+	color: #2980b9
+}
+
+tr{
+
+	background-color: #95a5a6
+}
+
+p{
+	color: #95afc0
+}
